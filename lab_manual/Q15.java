@@ -11,7 +11,6 @@ class Q15{
         //     System.out.println();
         // }
 
-
         
     }
 }
