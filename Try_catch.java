@@ -6,5 +6,8 @@ public class Try_catch {
         catch(ArithmeticException e){
             System.out.println("not divid by ZERO");
         }
+        finally{
+            System.out.println("it's finally block");
+        }
     }
 }
