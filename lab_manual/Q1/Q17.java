@@ -20,11 +20,11 @@ public class Q17 {
         float par=(total/300)*100;
 
         System.out.println("==================================");
-        System.out.print("Student Name : "+name);
-        System.out.print("Student Roll Number : "+rnum);
-        System.out.print("Java marks : "+java);
-        System.out.print("WD marks : "+wd);
-        System.out.print("Python marks : "+python);
-        System.out.print("Percentage : "+par);
+        System.out.println("Student Name : "+name);
+        System.out.println("Student Roll Number : "+rnum);
+        System.out.println("Java marks : "+java);
+        System.out.println("WD marks : "+wd);
+        System.out.println("Python marks : "+python);
+        System.out.println("Percentage : "+par);
     }
 }
